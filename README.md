@@ -20,6 +20,10 @@ Geoid and vertical datum transformations, DEM acquisition, elevation processing,
 
 *The original research-software archive titles may differ from the current software branding; please cite the associated DOI records.*
 
+## 🔎 Find my research and software
+
+Looking for **Islam KOA**, **IslamKOA GitHub**, satellite photogrammetry tools, or Python geospatial workflows? Start with [WASA-DEM (formerly Pléiades ASP Workflow)](https://github.com/IslamKOA/pleiades-asp-workflow) for NASA Ames Stereo Pipeline satellite stereo and tri-stereo DSM processing, or [ElevDatum (Geodetic & Elevation Data Toolkit)](https://github.com/IslamKOA/geodetic-elevation-data-toolkit) for geoid models, ellipsoidal-to-physical height conversion, vertical datum transformations, and DEM downloading.
+
 ## 🔬 Research interests
 
 - Satellite photogrammetry and 3D terrain reconstruction
